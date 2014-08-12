@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.CheckersForWindows", "Ex05.CheckersForWindows\Ex05.CheckersForWindows.csproj", "{D4C71BD6-C845-41FB-A1E9-3D1B8C1CB6A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F732931-DF77-470E-8D6C-961F57406448}"
+	ProjectSection(SolutionItems) = preProject
+		Info.txt = Info.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C71BD6-C845-41FB-A1E9-3D1B8C1CB6A8}.Debug|x86.ActiveCfg = Debug|x86
+		{D4C71BD6-C845-41FB-A1E9-3D1B8C1CB6A8}.Debug|x86.Build.0 = Debug|x86
+		{D4C71BD6-C845-41FB-A1E9-3D1B8C1CB6A8}.Release|x86.ActiveCfg = Release|x86
+		{D4C71BD6-C845-41FB-A1E9-3D1B8C1CB6A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

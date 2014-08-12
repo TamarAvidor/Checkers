@@ -1,0 +1,6 @@
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\bin\Debug\B13_Ex02.exe
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\bin\Debug\B13_Ex02.pdb
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\obj\x86\Debug\B13_Ex02.exe
+C:\Users\Tamar\Downloads\B13 Ex02 Tamar 301023925 Oren 305697880\B13 Ex02 Tamar 301023925 Oren 305697880\B13_Ex02\obj\x86\Debug\B13_Ex02.pdb

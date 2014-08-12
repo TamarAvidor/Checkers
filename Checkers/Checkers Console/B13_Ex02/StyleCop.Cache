@@ -1,0 +1,110 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="-1576714507">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CoinInformation.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 18:53:23</timestamp>
+    <milliseconds>692</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Cell.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 18:53:23</timestamp>
+    <milliseconds>704</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Board.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 21:36:04</timestamp>
+    <milliseconds>142</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConsoleUI.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 20:38:01</timestamp>
+    <milliseconds>285</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Player.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 18:53:23</timestamp>
+    <milliseconds>716</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Program.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/23/2013 11:58:13</timestamp>
+    <milliseconds>984</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="Movement.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 19:23:52</timestamp>
+    <milliseconds>729</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="StaticElementsMustAppearBeforeInstanceElements" ruleCheckId="SA1204">
+        <context>All static public methods must be placed before all non-static public methods.</context>
+        <line>89</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Game.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 21:09:31</timestamp>
+    <milliseconds>351</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>30</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>30</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Logic.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/25/2013 13:30:16</timestamp>
+      <milliseconds>347</milliseconds>
+    </settings>
+    <timestamp>04/22/2013 21:51:45</timestamp>
+    <milliseconds>223</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>267</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

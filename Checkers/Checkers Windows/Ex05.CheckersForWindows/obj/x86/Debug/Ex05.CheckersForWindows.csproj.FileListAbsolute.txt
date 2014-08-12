@@ -1,0 +1,42 @@
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersUI.exe
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersUI.pdb
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.exe
+C:\Users\oren\Documents\Visual Studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.pdb
+C:\Users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.GameSettingsWindow.resources
+C:\Users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.GameWindow.resources
+C:\Users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.MyButton.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.GameSettingsWindow.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.GameWindow.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.MyButton.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersForWindows.exe
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.Properties.Resources.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.exe
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.exe
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\bin\Debug\Ex05.CheckersForWindows.exe
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\bin\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.GameSettingsWindow.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.GameWindow.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.MyButton.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.Properties.Resources.resources
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paz\Desktop\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Tamar\Google Drive\HIT\'שנה ב\'סמסטר ב\C#\Ex05\Outlook\B13 Ex05 Tamar 301023925 Oren 305697880\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.exe
+C:\Users\Tamar\Google Drive\HIT\'שנה ב\'סמסטר ב\C#\Ex05\Outlook\B13 Ex05 Tamar 301023925 Oren 305697880\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\Tamar\Desktop\B13 Ex05 TamarAvidor 301023925 OrenLasko 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.exe
+C:\Users\Tamar\Desktop\B13 Ex05 TamarAvidor 301023925 OrenLasko 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.pdb
+C:\Users\Tamar\Google Drive\HIT\'שנה ב\'סמסטר ב\C#\Ex05\B13 Ex05 TamarAvidor 301023925 OrenLasko 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.exe
+C:\Users\Tamar\Google Drive\HIT\'שנה ב\'סמסטר ב\C#\Ex05\B13 Ex05 TamarAvidor 301023925 OrenLasko 305697880\Ex05.CheckersForWindows\obj\x86\Debug\Ex05.CheckersForWindows.pdb

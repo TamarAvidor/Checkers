@@ -1,0 +1,10 @@
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersUI.exe
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\bin\Debug\Ex05.CheckersUI.pdb
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.exe
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.pdb
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.GameSettingsWindow.resources
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.GameWindow.resources
+c:\users\oren\documents\visual studio 2010\Projects\B13 Ex05 Tamar 301023925 Oren 305697880\Ex05.CheckersUI\obj\x86\Debug\Ex05.CheckersUI.MyButton.resources
